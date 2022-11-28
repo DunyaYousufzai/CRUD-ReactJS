@@ -1,0 +1,12 @@
+{
+  "Agendas": [
+    {
+      "name": "Daily Scrum",
+      "obj": "daily tasks",
+      "location": "Virtual",
+      "time": "2022-11-28",
+      "host": "Dunya",
+      "id": 1
+    }
+  ]
+}
